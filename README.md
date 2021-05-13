@@ -13,7 +13,7 @@ El sitio debe ser responsive, priorizando el uso de Flexbox y evitando utilizar 
 
 ## Vista Online
 
-View the game hosted on [Github Pages](). 
+
 
 
 ## License & copyright
